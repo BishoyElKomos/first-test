@@ -194,7 +194,7 @@ html{
     .back .nav ul{
         list-style-type:none;
         display:flex;
-        justify-content:center;
+        justify-content:space-evenly;
     }
     .back .nav ul li{
         padding: 5px;
