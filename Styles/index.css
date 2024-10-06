@@ -316,11 +316,11 @@ html{
     } 
     #profile .container .row .profile .caption h2{
         font-size: 25px;
-        padding-top: 50px;
+        padding-top: 30px;
     }
     #profile .container .row .profile .caption p{
         font-size: 16px;
-        padding-top: 30px;
+        padding-top: 20px;
     }
     #profile .container .row .profile .caption button{
         width: 50%;
